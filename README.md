@@ -29,6 +29,7 @@ http://spotifymusicdiscovery.herokuapp.com/login
 - Go to the current directory
 - In the terminal, type:
     - git clone git@github.com:DuyBinhLeHa/MusicDiscovery.git
+    - ** remove package-lock.json file and node_modules folder **
     - git install Flask
     - git install python-dotenv
     - git install requests
